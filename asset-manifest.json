@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7122046e.css",
+    "main.js": "/main.js",
+    "714.js": "/714.js",
+    "sorceress.png": "/sorceress..png",
+    "vitalik.png": "/vitalik..png",
+    "slime.png": "/slime..png",
+    "penguin-paladin.png": "/penguin-paladin..png",
+    "images/legends/bridge.png": "/images/legends/bridge.png",
+    "images/legends/twitter.png": "/images/legends/twitter.png",
+    "images/legends/telegram.png": "/images/legends/telegram.png",
+    "images/logo.png": "/images/logo.png",
+    "favicon.ico": "/favicon.ico",
+    "images/leaderboard/avatar2.png": "/images/leaderboard/avatar2.png",
+    "images/leaderboard/avatar3.png": "/images/leaderboard/avatar3.png",
+    "images/sidebar/spin-the-wheel.png": "/images/sidebar/spin-the-wheel.png",
+    "images/leaderboard/avatar4.png": "/images/leaderboard/avatar4.png",
+    "index.html": "/index.html",
+    "images/leaderboard/avatar1.png": "/images/leaderboard/avatar1.png",
+    "style.css": "/style.css"
+  },
+  "entrypoints": [
+    "714.js",
+    "main.css",
+    "main.js",
+    "static/css/main.7122046e.css"
+  ]
+}
