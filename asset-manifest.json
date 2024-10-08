@@ -2,7 +2,7 @@
   "files": {
     "main.css": "/static/css/main.7122046e.css",
     "main.js": "/main.js",
-    "323.js": "/323.js",
+    "773.js": "/773.js",
     "sorceress.png": "/sorceress..png",
     "vitalik.png": "/vitalik..png",
     "slime.png": "/slime..png",
@@ -16,12 +16,13 @@
     "images/leaderboard/avatar3.png": "/images/leaderboard/avatar3.png",
     "images/sidebar/spin-the-wheel.png": "/images/sidebar/spin-the-wheel.png",
     "images/leaderboard/avatar4.png": "/images/leaderboard/avatar4.png",
+    "images/pointer.png": "/images/pointer.png",
     "index.html": "/index.html",
     "images/leaderboard/avatar1.png": "/images/leaderboard/avatar1.png",
     "style.css": "/style.css"
   },
   "entrypoints": [
-    "323.js",
+    "773.js",
     "main.css",
     "main.js",
     "static/css/main.7122046e.css"
