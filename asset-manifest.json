@@ -2,7 +2,7 @@
   "files": {
     "main.css": "/static/css/main.7122046e.css",
     "main.js": "/main.js",
-    "35.js": "/35.js",
+    "473.js": "/473.js",
     "sorceress.png": "/sorceress..png",
     "vitalik.png": "/vitalik..png",
     "slime.png": "/slime..png",
@@ -26,7 +26,7 @@
     "style.css": "/style.css"
   },
   "entrypoints": [
-    "35.js",
+    "473.js",
     "main.css",
     "main.js",
     "static/css/main.7122046e.css"
