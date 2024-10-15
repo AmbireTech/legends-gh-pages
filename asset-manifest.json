@@ -2,7 +2,7 @@
   "files": {
     "main.css": "/static/css/main.7122046e.css",
     "main.js": "/main.js",
-    "822.js": "/822.js",
+    "961.js": "/961.js",
     "sorceress.png": "/sorceress..png",
     "vitalik.png": "/vitalik..png",
     "slime.png": "/slime..png",
@@ -32,6 +32,7 @@
     "Sentient-Extralight.ttf": "/Sentient-Extralight..ttf",
     "fonts/Sentient-Extralight.ttf": "/fonts/Sentient-Extralight.ttf",
     "images/legends/telegram.png": "/images/legends/telegram.png",
+    "images/sidebar/spin-the-wheel.png": "/images/sidebar/spin-the-wheel.png",
     "Sentient-Medium.woff": "/Sentient-Medium..woff",
     "fonts/Sentient-Medium.woff": "/fonts/Sentient-Medium.woff",
     "Sentient-Regular.woff": "/Sentient-Regular..woff",
@@ -55,7 +56,6 @@
     "images/leaderboard/avatar2.png": "/images/leaderboard/avatar2.png",
     "favicon.ico": "/favicon.ico",
     "images/leaderboard/avatar3.png": "/images/leaderboard/avatar3.png",
-    "images/sidebar/spin-the-wheel.png": "/images/sidebar/spin-the-wheel.png",
     "images/leaderboard/avatar4.png": "/images/leaderboard/avatar4.png",
     "favicon-48x48.png": "/favicon-48x48.png",
     "images/pointer.png": "/images/pointer.png",
@@ -64,7 +64,7 @@
     "style.css": "/style.css"
   },
   "entrypoints": [
-    "822.js",
+    "961.js",
     "main.css",
     "main.js",
     "static/css/main.7122046e.css"
