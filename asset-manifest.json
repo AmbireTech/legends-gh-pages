@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.bff3dd11.css",
+    "main.css": "/static/css/main.98ca82e9.css",
     "main.js": "/main.js",
-    "203.js": "/203.js",
+    "16.js": "/16.js",
     "sorceress.png": "/sorceress..png",
     "slime.png": "/slime..png",
     "penguin-paladin.png": "/penguin-paladin..png",
@@ -62,16 +62,12 @@
     "images/pointer.png": "/images/pointer.png",
     "index.html": "/index.html",
     "images/leaderboard/avatar1.png": "/images/leaderboard/avatar1.png",
-    "style.css": "/style.css",
-    "main.css.map": "/main.css.map",
-    "main.js.map": "/main.js.map",
-    "main.bff3dd11.css.map": "/static/css/main.bff3dd11.css.map",
-    "203.js.map": "/203.js.map"
+    "style.css": "/style.css"
   },
   "entrypoints": [
-    "203.js",
+    "16.js",
     "main.css",
     "main.js",
-    "static/css/main.bff3dd11.css"
+    "static/css/main.98ca82e9.css"
   ]
 }
