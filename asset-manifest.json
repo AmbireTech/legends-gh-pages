@@ -2,7 +2,7 @@
   "files": {
     "main.css": "/static/css/main.bff3dd11.css",
     "main.js": "/main.js",
-    "951.js": "/951.js",
+    "203.js": "/203.js",
     "sorceress.png": "/sorceress..png",
     "slime.png": "/slime..png",
     "penguin-paladin.png": "/penguin-paladin..png",
@@ -66,10 +66,10 @@
     "main.css.map": "/main.css.map",
     "main.js.map": "/main.js.map",
     "main.bff3dd11.css.map": "/static/css/main.bff3dd11.css.map",
-    "951.js.map": "/951.js.map"
+    "203.js.map": "/203.js.map"
   },
   "entrypoints": [
-    "951.js",
+    "203.js",
     "main.css",
     "main.js",
     "static/css/main.bff3dd11.css"
