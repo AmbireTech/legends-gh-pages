@@ -2,7 +2,7 @@
   "files": {
     "main.css": "/static/css/main.29328ae9.css",
     "main.js": "/main.js",
-    "909.js": "/909.js",
+    "937.js": "/937.js",
     "meta.png": "/meta.png",
     "season2-background.png": "/season2-background..png",
     "background.png": "/background..png",
@@ -41,6 +41,7 @@
     "ambire-blurred-logo.png": "/ambire-blurred-logo..png",
     "hover-background.png": "/hover-background..png",
     "favicon.svg": "/favicon.svg",
+    "rewards-cover-image.png": "/rewards-cover-image..png",
     "ambire-connect-icon.png": "/ambire-connect-icon.png",
     "FunnelDisplay-Regular.ttf": "/FunnelDisplay-Regular..ttf",
     "fonts/FunnelDisplay-Regular.ttf": "/fonts/FunnelDisplay-Regular.ttf",
@@ -73,10 +74,10 @@
     "main.css.map": "/main.css.map",
     "main.js.map": "/main.js.map",
     "main.29328ae9.css.map": "/static/css/main.29328ae9.css.map",
-    "909.js.map": "/909.js.map"
+    "937.js.map": "/937.js.map"
   },
   "entrypoints": [
-    "909.js",
+    "937.js",
     "main.css",
     "main.js",
     "static/css/main.29328ae9.css"
