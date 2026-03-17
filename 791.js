@@ -1,0 +1,5 @@
+"use strict";
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[n]="141cf25a-69ca-5bf5-8fdd-808ace70b0ed")}catch(e){}}();
+(self.webpackChunkambire_mobile_wallet=self.webpackChunkambire_mobile_wallet||[]).push([[791],{791:(module,exports,__webpack_require__)=>{var globalObject=function(){if("undefined"!==typeof self)return self;if("undefined"!==typeof window)return window;if("undefined"!==typeof __webpack_require__.g)return __webpack_require__.g;throw new Error("unable to locate global object")}();module.exports=exports=globalObject.fetch,globalObject.fetch&&(exports.default=globalObject.fetch.bind(globalObject)),exports.Headers=globalObject.Headers,exports.Request=globalObject.Request,exports.Response=globalObject.Response}}]);
+//# sourceMappingURL=791.js.map
+//# debugId=141cf25a-69ca-5bf5-8fdd-808ace70b0ed
